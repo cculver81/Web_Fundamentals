@@ -1,0 +1,8 @@
+cd ..
+cd git_practice
+git init
+git add script.js
+git status
+git commit -m "initial coding file and repository setup"
+git commit -m "updated script.js"
+git log
